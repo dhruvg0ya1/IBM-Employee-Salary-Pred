@@ -1,0 +1,10 @@
+Employee Salary Prediction - Model Performance Report
+============================================================
+
+RandomForest: 0.8592
+GradientBoosting: 0.8679
+LogisticRegression: 0.8221
+KNN: 0.8264
+SVM: 0.8490
+
+Best Model: GradientBoosting (Accuracy: 0.8679)
